@@ -55,3 +55,8 @@ Content in the first column | Content in the second column
 FRIGUS :cyclone:
 EL :man_with_gua_pi_mao: DE LA BANDA ES MEDIO :mouse:
 ![Viola](Carl_Skin-Default.png)
+
+:banana::peach:
+
+Juan chiappetti :poop:
+Giambroni :v:
