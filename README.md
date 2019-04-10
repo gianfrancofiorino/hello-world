@@ -60,4 +60,5 @@ EL :man_with_gua_pi_mao: DE LA BANDA ES MEDIO :mouse:
 
 Juan chiappetti :poop:
 Giambroni :v:
-![Viola](O8e_S8_4.jpeg)
+![Viola](hola.jpeg)
+
