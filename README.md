@@ -29,4 +29,9 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-<addr> prueba
+javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
