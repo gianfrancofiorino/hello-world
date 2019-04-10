@@ -21,4 +21,4 @@ Hola, soy Gian, el master!!! Saludos feli!
    1. Item 3b
 
 ![Viola](image.png)
-[La pagina del que no trabaja]https://tomas13045.wixsite.com/misitio
+https://tomas13045.wixsite.com/misitio
