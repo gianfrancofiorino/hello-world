@@ -21,6 +21,7 @@ Hola, soy Gian, el master!!! Saludos feli!
    1. Item 3b
 
 ![Viola](image.png)
+
 https://tomas13045.wixsite.com/misitio
 
 As Kanye West said:
@@ -28,5 +29,4 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-I think you should use an
-`<addr>` element here instead.
+<addr> prueba
